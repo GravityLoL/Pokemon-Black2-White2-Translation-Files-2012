@@ -1,14 +1,14 @@
-\xf000Ă\x0001\x0000 fainted!
-The wild \xf000Ă\x0001\x0000 fainted!
-The foe's \xf000Ă\x0001\x0000 fainted!
-\xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
-The wild \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
-The foe's \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
-It's super effective on\xfffe\xf000Ă\x0001\x0000!
-It's super effective on\xfffethe wild \xf000Ă\x0001\x0000!
-It's super effective on\xfffethe foe's \xf000Ă\x0001\x0000!
-It's super effective on\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective on the wild\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 zemdlał!
+Dziki \xf000Ă\x0001\x0000 zemdlał!
+Wrogi \xf000Ă\x0001\x0000 zemdlał!
+\xf000Ă\x0001\x0000 recovered\xfffefrom mdleje!
+Dziki \xf000Ă\x0001\x0000 recovered\xfffefrom mdleje!
+Wrogi \xf000Ă\x0001\x0000 recovered\xfffefrom mdleje!
+To super efektywne\xfffe\xf000Ă\x0001\x0000!
+To super efektywne dla\xfffethe wrogiego \xf000Ă\x0001\x0000!
+To super efektwyne\xfffethe wrogiego \xf000Ă\x0001\x0000!
+To super efektynwe \xfffe\xf000Ă\x0001\x0000 i \xf000Ă\x0001\x0001!
+To super efektywne nla\xfffe\xf000Ă\x0001\x0000 i \xf000Ă\x0001\x0001!
 It's super effective on\xfffethe foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
 It's super effective on \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
 It's super effective on the wild\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
